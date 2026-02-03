@@ -1,15 +1,18 @@
-<span style="color: pinkish">**Employment**</span>
+<title style="color: pink" Massissilia Hamadouche>
 
 ------------------------------------------------------------------------
+<span style="color: pink">**Employment**</span>
+
 
 **University of Massachusetts Amherst** *Sep. 2024 - present*  
 *Postdoctoral Research Associate*  
 **University of Edinburgh** *Dec. 2023 - Jun. 2024*  
 *Teaching/Postdoctoral Research Associate*
 
-<span style="color: pinkish">Education</span>
+
 
 ------------------------------------------------------------------------
+<span style="color: pink">**Education**</span>
 
 **University of Edinburgh** *2024*  
 *PhD in Astronomy*  
@@ -21,14 +24,13 @@ supervised by Prof. Ross McLure
 **Queen Mary University of London** *2018*  
 *BSc in Astrophysics*
 
-<span style="color: pinkish">Publications *(significant author
-contribution, most recent)*</span>
-
 ------------------------------------------------------------------------
+<span style="color: pink">**Publications** *(significant author
+contribution, most recent)*</span>
 
 **M. L. Hamadouche**, K. Whitaker, F. Valentino, K. Ito et al.
 *DeepDive: DeepDive: Tracing early quenching pathways of massive
-quiescent galaxies at *z* \> 3  from star-formation histories and
+quiescent galaxies at z \> 3  from star-formation histories and
 chemical abundances*, Submitted to ApJ, arXiv:2602.02485
 
 P. Zhu, K. Ito, F. Valentino, **M. L. Hamadouche**, et al. *DeepDive:
@@ -41,12 +43,12 @@ quiescent galaxies in the Universe.* Submitted to A&A, arXiv:2506.22642.
 
 **M. L. Hamadouche**, R. J. McLure, A. Carnall, K. Whitaker et al.
 *JWST* *PRIMER: strong evidence for the environmental quenching of
-low-mass galaxies out to *z*≃ 2.* MNRAS, Jul. 2025, doi:
+low-mass galaxies out to z ≃ 2*, MNRAS, Jul. 2025, doi:
 10.1093/mnras/staf971.
 
 **M. L. Hamadouche**, A. C. Carnall, R. J. McLure, J. Dunlop et al. *The
 connection between stellar mass, age and quenching timescale in massive
-quiescent galaxies at *z*≃ 1,* MNRAS, Mar. 2023, doi:
+quiescent galaxies at z ≃ 1*, MNRAS, Mar. 2023, doi:
 10.1093/mnras/stad773.
 
 **M. L. Hamadouche**, A. C. Carnall, R. J. McLure, J. Dunlop et al. *A
@@ -57,9 +59,8 @@ doi: 10.1093/mnras/stac535.
 ***Total citations:*** 2,071, ***h-index:*** 18, ***ORCiD:***
 0000-0001-6763-5551
 
-<span style="color: pinkish">Selected talks</span>
-
 ------------------------------------------------------------------------
+<span style="color: pink">**Selected talks**</span>
 
 **Galaxy Lunch Talk (*invited*)** *Space Telescope Science Institute,
 Baltimore, MD* *2025*  
@@ -78,9 +79,8 @@ Busan, South Korea* *2022*
 **Cosmic Nuggets Conference (*invited*)** *Sexten Centre for
 Astrophysics, Sexten* *2022*  
 
-<span style="color: pinkish">Mentoring & Teaching</span>
-
 ------------------------------------------------------------------------
+<span style="color: pinkish">**Mentoring & Teaching**</span>
 
 ***Mentees:*  **
 *Pranav Sasheeth,* *PENGUIN mentee*, University of Florida *2025 -
@@ -101,9 +101,8 @@ Pre-Honours *2020 - 2023*
 *Experimental Physics 2 Laboratory*, Second Year Pre-Honours *2022*  
 *Stellar Evolution*, Senior Honours *2021*  
 
-<span style="color: pinkish">Grants & Prizes</span>
-
 ------------------------------------------------------------------------
+<span style="color: pinkish">**Grants & Prizes**</span>
 
 |  |  |  |
 |:---|:---|:---|
@@ -113,9 +112,8 @@ Pre-Honours *2020 - 2023*
 | **STFC PhD Research Scholarship** (*UKRI & STFC*) | *£17,000pa* | *2019 - 2024* |
 | **Summer Research Internship Grant** *(QMUL)* | *£3,000* | *2017 & 2018* |
 
-<span style="color: pinkish">Telescope Observing Proposals</span>
-
 ------------------------------------------------------------------------
+<span style="color: pinkish">Telescope Observing Proposals</span>
 
 ***JWST* Cycle 2 Medium Proposal GO-3543** (PI: A. Carnall, F. Cullen):
 *‘EXCELS: The early extragalactic continuum and emission line survey’*
@@ -123,9 +121,8 @@ Pre-Honours *2020 - 2023*
 ***JWST* Cycle 1 Small Proposal GO-2285** (PI: A. Carnall): *‘A massive
 quiescent galaxy at redshift 4.657’* *(**Co-I**, 8 hours; £610,000)*  
 
-<span style="color: pinkish">Collaborations</span>
-
 ------------------------------------------------------------------------
+<span style="color: pinkish">Collaborations</span>
 
 ***JWST* DeepDive** ‘A deep dive into the physics of the first quiescent
 galaxies’, PI: Valentino  
@@ -142,9 +139,8 @@ PI: Dunlop
 **VANDELS** ‘A deep VIMOS survey of the CANDELS UDS and CDFS fields’,
 PIs:McLure, Pentericci
 
-<span style="color: pinkish">Outreach</span>
-
 ------------------------------------------------------------------------
+<span style="color: pinkish">Outreach</span>
 
 **Volunteer** *Astronomy on Tap, Western Mass.* Series of public
 lectures at New City Brewery, MA *2025*  
@@ -158,9 +154,8 @@ STEM event for middle schoolers from local underserved communities
 **Volunteer** *Astronomy is for Everyone!* Public star-gazing events,
 UMass Amherst, MA *2025*
 
-<span style="color: pinkish">Skills</span>
-
 ------------------------------------------------------------------------
+<span style="color: pinkish">Skills</span>
 
 |  |  |
 |:---|---:|

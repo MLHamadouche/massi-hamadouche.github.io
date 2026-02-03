@@ -108,11 +108,11 @@ theme_color:           rgb(150, 14, 84)
 
 # The string encoding which fonts to fetch from Google Fonts.
 See: <https://hydejack.com/docs/configuration/>
-google_fonts:          Gamja Flower:400 #|Roboto+Slab:700|Noto+Sans:400,400i,700,700i
+google_fonts:          Gamja Flower:400|Gaegu:400,700 #|Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Gamja Flower #Noto Sans, Helvetica, Arial, sans-serif
+font:                  Gaegu:400 #Noto Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss

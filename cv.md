@@ -1,4 +1,4 @@
-<h1 style="color:rgb(242,99,152)">Massissilia L. Hamadouche</h1>
+<h1 style="color:rgb(242,99,152)">Curriculum Vitae</h1>
 
 ------------------------------------------------------------------------
 <h3 style="color:rgb(242,99,152)">Employment</h3>

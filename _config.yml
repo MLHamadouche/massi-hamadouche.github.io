@@ -111,7 +111,7 @@ google_fonts:          Gamja Flower:400|Gaegu:400,700|Space Grotesk:300,400 #|Ro
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Space Grotesk #Gaegu #Noto Sans, Helvetica, Arial, sans-serif
+font:                  Gaegu #Gaegu #Noto Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss

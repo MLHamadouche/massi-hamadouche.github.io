@@ -92,7 +92,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/jellyfish_aquarium.jpg
 accent_color:          rgb(242,99,152)
 
 # This is used for the `theme-color` meta tag,
@@ -128,7 +128,7 @@ defaults:
   - scope:
       path:            hyde/
     values:
-      accent_color:    rgb(38,139,210)
+      accent_color:    rgb(242,99,152)
       theme_color:     rgb(32,32,32)
       accent_image:
         background:    rgb(32,32,32)
@@ -404,21 +404,21 @@ jekyll_compose:
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/jellyfish_aquarium.jpg
     posts:
       layout: post
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/jellyfish_aquarium.jpg
     projects:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/jellyfish_aquarium.jpg
       links:
         - title: Project Link
           url: https://example.com

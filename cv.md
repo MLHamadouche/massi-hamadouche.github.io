@@ -1,7 +1,7 @@
-<h1 style="color:pink">Massissilia L. Hamadouche</h1>
+<h1 style="color:rgb(242,99,152)">Massissilia L. Hamadouche</h1>
 
 ------------------------------------------------------------------------
-<h3 style="color: pink">Employment</h3>
+<h3 style="color:rgb(242,99,152)">Employment</h3>
 
 
 **University of Massachusetts Amherst** *Sep. 2024 - present*  
@@ -12,7 +12,7 @@
 
 
 ------------------------------------------------------------------------
-<h3 style="color: pink">Education</h3>
+<h3 style="color:rgb(242,99,152)">Education</h3>
 
 **University of Edinburgh** *2024*  
 *PhD in Astronomy*  
@@ -25,7 +25,7 @@ supervised by Prof. Ross McLure
 *BSc in Astrophysics*
 
 ------------------------------------------------------------------------
-<h3 style="color: pink">Publications *(significant author
+<h3 style="color:rgb(242,99,152)">Publications *(significant author
 contribution, most recent)*</h3>
 
 **M. L. Hamadouche**, K. Whitaker, F. Valentino, K. Ito et al.
@@ -60,7 +60,7 @@ doi: 10.1093/mnras/stac535.
 0000-0001-6763-5551
 
 ------------------------------------------------------------------------
-<h3 style="color: pink">Selected talks</h3>
+<h3 style="color:rgb(242,99,152)">Selected talks</h3>
 
 **Galaxy Lunch Talk (*invited*)** *Space Telescope Science Institute,
 Baltimore, MD* *2025*  
@@ -80,7 +80,7 @@ Busan, South Korea* *2022*
 Astrophysics, Sexten* *2022*  
 
 ------------------------------------------------------------------------
-<h3 style="color: pinkish">Mentoring & Teaching</h3>
+<h3 style="color:rgb(242,99,152)">Mentoring & Teaching</h3>
 
 ***Mentees:*  **
 *Pranav Sasheeth,* *PENGUIN mentee*, University of Florida *2025 -
@@ -102,7 +102,7 @@ Pre-Honours *2020 - 2023*
 *Stellar Evolution*, Senior Honours *2021*  
 
 ------------------------------------------------------------------------
-<h3 style="color: pinkish">Grants & Prizes</h3>
+<h3 style="color:rgb(242,99,152)">Grants & Prizes</h3>
 
 |  |  |  |
 |:---|:---|:---|
@@ -113,7 +113,7 @@ Pre-Honours *2020 - 2023*
 | **Summer Research Internship Grant** *(QMUL)* | *£3,000* | *2017 & 2018* |
 
 ------------------------------------------------------------------------
-<h3 style="color: pinkish">Telescope Observing Proposals</h3>
+<h3 style="color:rgb(242,99,152)">Telescope Observing Proposals</h3>
 
 ***JWST* Cycle 2 Medium Proposal GO-3543** (PI: A. Carnall, F. Cullen):
 *‘EXCELS: The early extragalactic continuum and emission line survey’*
@@ -122,7 +122,7 @@ Pre-Honours *2020 - 2023*
 quiescent galaxy at redshift 4.657’* *(**Co-I**, 8 hours; £610,000)*  
 
 ------------------------------------------------------------------------
-<h3 style="color: pinkish">Collaborations</h3>
+<h3 style="color:rgb(242,99,152)">Collaborations</h3>
 
 ***JWST* DeepDive** ‘A deep dive into the physics of the first quiescent
 galaxies’, PI: Valentino  
@@ -140,7 +140,7 @@ PI: Dunlop
 PIs:McLure, Pentericci
 
 ------------------------------------------------------------------------
-<h3 style="color: pinkish">Outreach</h3>
+<h3 style="color:rgb(242,99,152)">Outreach</h3>
 
 **Volunteer** *Astronomy on Tap, Western Mass.* Series of public
 lectures at New City Brewery, MA *2025*  

@@ -112,7 +112,7 @@ google_fonts:          Gamja Flower:400|Gaegu:400,700 #|Roboto+Slab:700|Noto+San
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Gaegu:400 #Noto Sans, Helvetica, Arial, sans-serif
+font:                  Gaegu #Noto Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss

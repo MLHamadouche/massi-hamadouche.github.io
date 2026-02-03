@@ -7,11 +7,14 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   about: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    I recently started a postdoc at the University of Massachusetts Amherst, 
+    working with Kate Whitaker & Francesco Valentino (at DAWN, Copenhagen) on the star-formation histories of 
+    massive quiescent galaxies at cosmic noon. Prior to this position, I completed a PhD at the 
+    Institute for Astronomy, University of Edinburgh, under the supervision of Ross McLure. 
+    I studied size-mass relations, star-formation histories and quenching mechanisms of quiescent galaxies at z ~ 1 
+    using a range of data from the ESO Public Spectroscopic Survey VANDELS, and the JWST PRIMER program.
 
-    Open `_data/authors.yml` to edit this text.
+    # Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
   picture:
@@ -21,8 +24,8 @@ author1:
       2x: "https://via.placeholder.com/256x256"
 
   social:
-    twitter: "<username>"
-    github: "<username>"
+    orcid: "https://orcid.org/0000-0001-6763-5551"
+    github: "MLHamadouche"
 
 # Another author (optional)
 author2:

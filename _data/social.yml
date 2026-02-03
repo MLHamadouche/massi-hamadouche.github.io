@@ -111,7 +111,7 @@ ondrive:
   icon: icon-ondrive
 orcid:
   name: orcid
-  image: /assets/img/ORCID-iD_icon_32x32.png
+  icon: "/assets/img/ORCID-iD_icon_32x32.png"
   prepend: "https://orcid.org/"
 github:
   name: GitHub

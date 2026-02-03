@@ -9,8 +9,6 @@
 **University of Edinburgh** *Dec. 2023 - Jun. 2024*  
 *Teaching/Postdoctoral Research Associate*
 
-
-
 ------------------------------------------------------------------------
 <h3 style="color:rgb(242,99,152)">Education</h3>
 

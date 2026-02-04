@@ -12,3 +12,47 @@
     margin: 1rem 0;
   }
 }
+
+:root {
+  --sidebar-width: 18rem; // adjust to taste (16–20rem is typical)
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.research-card {
+  text-decoration: none;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  color: #333;
+}
+
+.research-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+}
+
+.research-card img {
+  width: 80px;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.research-card h3 {
+  color: rgb(255, 123, 172);
+  margin-bottom: 0.5rem;
+}
+
+.research-card p {
+  font-size: 0.9rem;
+  color: #555;
+}
+

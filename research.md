@@ -2,13 +2,13 @@
 
 <div class="research-grid">
 
-  <a href="/research/jwst-deepdive.html" class="research-card">
+  <a href="/research/deepdive.html" class="research-card">
     <img src="/assets/img/sfhs_website.png" alt="JWST DeepDive icon">
     <h3>JWST DeepDive</h3>
     <!-- <p>Star-formation histories and chemical abundances of massive quiescent galaxies at 3 &lt; *z* &lt; 4.</p> -->
   </a>
 
-  <a href="/research/jwst-primer.html" class="research-card">
+  <a href="/research/primer.html" class="research-card">
     <img src="/assets/img/primer_v6_trimmed-2.png" alt="JWST PRIMER icon">
     <h3>JWST PRIMER</h3>
     <!-- <p>The size-mass evolution of star-forming and quiescent galaxies at 1 &lt; *z* &lt; 3.</p> -->

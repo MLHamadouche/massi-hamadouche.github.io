@@ -14,8 +14,19 @@
 }
 
 @media (min-width: 48em) {
-  :root {
-    --sidebar-width: 17rem;
+  // :root {
+  //   --sidebar-width: 17rem;
+  // }
+  
+  main.content {
+    margin-left: 18rem;      /* same as your sidebar width */
+    width: calc(100% - 18rem);
+  }
+  
+  /* For cover pages */
+  .has-cover main.content {
+    margin-left: 18rem;
+    width: calc(100% - 18rem);
   }
 
   .drawer,
@@ -24,9 +35,9 @@
     display: none !important;
   }
 
-  .content {
-    margin-left: var(--sidebar-width);
-  }
+  // .content {
+  //   margin-left: var(--sidebar-width);
+  // }
 }
 
 @media (min-width: 48em) {

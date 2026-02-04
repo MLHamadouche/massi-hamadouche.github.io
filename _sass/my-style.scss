@@ -14,9 +14,9 @@
 }
 
 @media (min-width: 48em) {
-  // :root {
-  //   --sidebar-width: 17rem;
-  // }
+  :root {
+    --sidebar-width: 17rem;
+  }
   
   main.content {
     margin-left: 18rem;      /* same as your sidebar width */

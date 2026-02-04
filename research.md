@@ -23,7 +23,7 @@ The DeepDive survey is a *JWST* Cycle 2 spectroscopic program (ID: 3567, PI: F. 
     src="/assets/img/figure5_190525.pdf"
     type="application/pdf"
     width="85%"
-    height="500px"
+    height="250px"
   />
   <figcaption class="figure-caption">
     <strong>Figure 2.</strong> The size evolution of quiescent and star-forming galaxies within three different stellar-mass ranges (for all, low-mass, and high-mass galaxies, respectively). We find that the slope of the relation followed by low-mass quiescent galaxies is indistinguishable from that followed by low-mass star-forming galaxies. We also find that high-mass star-forming galaxies evolve more rapidly than low-mass star-forming galaxies. However, at high stellar masses it is clear that quiescent galaxies experience much more rapid size evolution than their star-forming counterparts. Uncertainties on the median values are derived via bootstrap resampling. Error bars correspond to the interval between the 16th and 84th percentiles of the distribution.

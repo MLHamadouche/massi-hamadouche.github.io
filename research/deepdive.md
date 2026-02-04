@@ -8,6 +8,7 @@ layout: page
 
 The DeepDive survey is a *JWST* Cycle 2 spectroscopic program (ID: 3567, PI: F. Valentino) targeting ten massive quiescent galaxies to obtain deep, high signal-to- noise, high-quality, medium-resolution spectroscopy between *3 < z < 4* using the NIRCam and NIRSpec instruments aboard *JWST*.
 
+Click the figure below to be redirected to the paper! \(o)/
 
 <figure class="figure"> <a href="https://arxiv.org/pdf/2602.02485"> 
   <embed

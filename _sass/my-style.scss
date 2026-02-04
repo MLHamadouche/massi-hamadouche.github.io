@@ -15,13 +15,13 @@
 
 @media (min-width: 48em) {
   :root {
-    --sidebar-width: 16rem;
+    --sidebar-width: 15rem;
   }
   
-  main.content {
-    margin-left: 16rem;      /* same as your sidebar width */
-    width: calc(100% - 20rem);
-  }
+  // main.content {
+  //   margin-left: 15rem;      /* same as your sidebar width */
+  //   width: calc(100% - 20rem);
+  // }
   
   // /* For cover pages */
   // .has-cover main.content {
@@ -29,11 +29,11 @@
   //   width: calc(100% - 15rem);
   // }
 
-  // .drawer,
-  // .drawer-toggle,
-  // .drawer-backdrop {
-  //   display: none !important;
-  // }
+  .drawer,
+  .drawer-toggle,
+  .drawer-backdrop {
+    display: none !important;
+  }
 
   .content {
     margin-left: var(--sidebar-width);

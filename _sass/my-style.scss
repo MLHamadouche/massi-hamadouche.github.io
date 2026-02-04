@@ -20,8 +20,10 @@
   :root {
     --sidebar-width: 15rem;
   }
-  .content {
+
+  main.content {
     margin-left: var(--sidebar-width);
+    width: calc(100% - var(--sidebar-width));
   }
 }
 //   main.content {

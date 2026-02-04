@@ -14,7 +14,7 @@
 }
 
 :root {
-  --sidebar-width: 18rem; // adjust to taste (16–20rem is typical)
+  --sidebar-width: 19rem; // adjust to taste (16–20rem is typical)
 }
 
 .research-grid {
@@ -28,7 +28,7 @@
   text-decoration: none;
   background: #ffffff;
   border-radius: 12px;
-  padding: 1.5rem;
+  padding: 1.25rem;
   text-align: center;
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -41,9 +41,9 @@
 }
 
 .research-card img {
-  width: 80px;
+  width: 100px;
   height: auto;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .research-card h3 {
@@ -52,7 +52,7 @@
 }
 
 .research-card p {
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: #555;
 }
 

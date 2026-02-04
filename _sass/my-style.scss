@@ -15,7 +15,7 @@
 
 @media (min-width: 48em) {
   :root {
-    --sidebar-width: 19rem;
+    --sidebar-width: 17rem;
   }
 
   .drawer,
@@ -96,7 +96,7 @@
   /* Image takes ~75% of card */
   .research-card img {
     flex: 0 0 75%;
-    width: 80%;
+    width: 85%;
     object-fit: contain;
     margin-bottom: 0.75rem;
     display: block;

@@ -41,7 +41,7 @@ logo:                  /assets/img/cute_me_new2.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author1:
   # Used by `jekyll-feed`:
-  name:                Massissilia Hamadouche
+  name:                Dr. Massissilia Hamadouche
   email:               mhamadouche@umass.edu
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>

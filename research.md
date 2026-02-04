@@ -5,19 +5,19 @@
   <a href="/research/jwst-deepdive.html" class="research-card">
     <img src="/assets/img/jwst_icon.png" alt="JWST DeepDive icon">
     <h3>JWST DeepDive</h3>
-    <p>Star-formation histories and chemical abundances of massive quiescent galaxies at 3 &lt; *z* &lt; 4.</p>
+    <!-- <p>Star-formation histories and chemical abundances of massive quiescent galaxies at 3 &lt; *z* &lt; 4.</p> -->
   </a>
 
   <a href="/research/jwst-primer.html" class="research-card">
     <img src="/assets/img/primer_icon.png" alt="JWST PRIMER icon">
     <h3>JWST PRIMER</h3>
-    <p>The size-mass evolution of star-forming and quiescent galaxies at 1 &lt; *z* &lt; 3.</p>
+    <!-- <p>The size-mass evolution of star-forming and quiescent galaxies at 1 &lt; *z* &lt; 3.</p> -->
   </a>
 
   <a href="/research/vandels.html" class="research-card">
     <img src="/assets/img/vandels_icon.png" alt="VANDELS icon">
     <h3>VANDELS</h3>
-    <p>The connection between size, mass, age and timescales of massive quiescent galaxies at 1 &lt; *z* &lt; 1.3. </p>
+    <!-- <p>The connection between size, mass, age and timescales of massive quiescent galaxies at 1 &lt; *z* &lt; 1.3. </p> -->
   </a>
 
 </div>

@@ -16,32 +16,32 @@
     --sidebar-width: 15rem;
 }
 
-@media (min-width: 48em) {
-  :root {
-    --sidebar-width: 15rem;
-  }
+// @media (min-width: 48em) {
+//   :root {
+//     --sidebar-width: 15rem;
+//   }
   
-  main.content {
-    margin-left: 15rem;      /* same as your sidebar width */
-    width: calc(100% - 20rem);
-  }
+//   main.content {
+//     margin-left: 15rem;      /* same as your sidebar width */
+//     width: calc(100% - 20rem);
+//   }
   
-  /* For cover pages */
-  .has-cover main.content {
-    margin-left: 15rem;
-    width: calc(100% - 20rem);
-  }
+//   /* For cover pages */
+//   .has-cover main.content {
+//     margin-left: 15rem;
+//     width: calc(100% - 20rem);
+//   }
 
-  .drawer,
-  .drawer-toggle,
-  .drawer-backdrop {
-    display: none !important;
-  }
+//   .drawer,
+//   .drawer-toggle,
+//   .drawer-backdrop {
+//     display: none !important;
+//   }
 
-  .content {
-    margin-left: var(--sidebar-width);
-  }
-}
+//   .content {
+//     margin-left: var(--sidebar-width);
+//   }
+// }
 
 // @media (min-width: 48em) {
 //    #_sidebar {

@@ -1,22 +1,14 @@
-<!-- ---
-layout: list
-# title: Publications
-# description: >
-  # This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  # Check out the `blog` layout for comparison.
-grouped: true
---- -->
 <h1 style="color:rgb(242,99,152)">Publications</h1>
 
 <h2 style="color:rgb(255, 123, 172)">First author</h2>
 
 1. **M. L. Hamadouche**, K. Whitaker, F. Valentino, K. Ito et al. *DeepDive: DeepDive: Tracing early quenching pathways of massive quiescent galaxies at z \> 3  from star-formation histories and chemical abundances*, Submitted to ApJ, <a href="https://arxiv.org/pdf/2602.02485"> arXiv:2602.02485 </a>
 
-2. **M. L. Hamadouche**, R. J. McLure, A. Carnall, K. Whitaker et al. *JWST* *PRIMER: strong evidence for the environmental quenching of low-mass galaxies out to z ≃ 2*, MNRAS, Jul. 2025, <a href="https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.541..463H/doi:10.1093/mnras/staf971"> doi:10.1093/mnras/staf971 </a>.
+2. **M. L. Hamadouche**, R. J. McLure, A. Carnall, K. Whitaker et al. *JWST* *PRIMER: strong evidence for the environmental quenching of low-mass galaxies out to z ≃ 2*, MNRAS, Jul. 2025, <a href="https://doi.org/10.1093/mnras/staf971"> doi:10.1093/mnras/staf971 </a>.
 
-3. **M. L. Hamadouche**, A. C. Carnall, R. J. McLure, J. Dunlop et al. *The connection between stellar mass, age and quenching timescale in massive quiescent galaxies at z ≃ 1*, MNRAS, Mar. 2023, <a href="10.1093/mnras/stad773"> doi: 10.1093/mnras/stad773 </a>.
+3. **M. L. Hamadouche**, A. C. Carnall, R. J. McLure, J. Dunlop et al. *The connection between stellar mass, age and quenching timescale in massive quiescent galaxies at z ≃ 1*, MNRAS, Mar. 2023, <a href="https://doi.org/10.1093/mnras/stad773"> doi: 10.1093/mnras/stad773 </a>.
 
-4. **M. L. Hamadouche**, A. C. Carnall, R. J. McLure, J. Dunlop et al. *A combined VANDELS and LEGA-C study: the evolution of quiescent galaxy size, stellar mass and age from z = 0.6 to z = 1.3*. MNRAS, Mar. 2022, <a href="10.1093/mnras/stac535"> doi: 10.1093/mnras/stac535 </a>.
+4. **M. L. Hamadouche**, A. C. Carnall, R. J. McLure, J. Dunlop et al. *A combined VANDELS and LEGA-C study: the evolution of quiescent galaxy size, stellar mass and age from z = 0.6 to z = 1.3*. MNRAS, Mar. 2022, <a href="https://doi.org/10.1093/mnras/stac535"> doi: 10.1093/mnras/stac535 </a>.
 
 <h2 style="color:rgb(255, 123, 172)">Significant contributions</h2>
 

@@ -19,14 +19,14 @@
   }
   
   main.content {
-    margin-left: 18rem;      /* same as your sidebar width */
-    width: calc(100% - 18rem);
+    margin-left: 17rem;      /* same as your sidebar width */
+    width: calc(100% - 15rem);
   }
   
   /* For cover pages */
   .has-cover main.content {
-    margin-left: 18rem;
-    width: calc(100% - 18rem);
+    margin-left: 17rem;
+    width: calc(100% - 15rem);
   }
 
   .drawer,

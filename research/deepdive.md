@@ -4,7 +4,7 @@ layout: page
 # description: JWST Cycle 2 spectroscopic program targeting ten massive quiescent galaxies at 3 < z < 4.
 ---
 
-<h2 style="color:rgb(255, 123, 172)">JWST DeepDive</h2>
+<h1 style="color:rgb(255, 123, 172)">JWST DeepDive</h1>
 
 The DeepDive survey is a *JWST* Cycle 2 spectroscopic program (ID: 3567, PI: F. Valentino) targeting ten massive quiescent galaxies to obtain deep, high signal-to- noise, high-quality, medium-resolution spectroscopy between *3 < z < 4* using the NIRCam and NIRSpec instruments aboard *JWST*.
 

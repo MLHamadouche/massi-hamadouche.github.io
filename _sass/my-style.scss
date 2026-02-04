@@ -77,3 +77,43 @@
   color: #555;
 }
 
+@media (min-width: 64em) {
+
+  /* Three cards per row */
+  .research-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .research-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    aspect-ratio: 4 / 5; /* nice poster-like shape */
+    padding: 1.25rem;
+  }
+
+  /* Image takes ~75% of card */
+  .research-card img {
+    flex: 0 0 75%;
+    width: 100%;
+    object-fit: contain;
+    margin-bottom: 0.75rem;
+  }
+
+  /* Title at bottom */
+  .research-card h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  /* Hide description on desktop for cleaner look */
+  .research-card p {
+    display: none;
+  }
+
+  /* Subtle image hover polish */
+  .research-card:hover img {
+    transform: scale(1.03);
+  }
+}

@@ -10,21 +10,20 @@ grouped: true
 
 <h2 style="color:rgb(255, 123, 172)">First author</h2>
 
-1. **M. L. Hamadouche**, K. Whitaker, F. Valentino, K. Ito et al. *DeepDive: DeepDive: Tracing early quenching pathways of massive quiescent galaxies at z \> 3  from star-formation histories and chemical abundances*, Submitted to ApJ, arXiv:2602.02485
+1. **M. L. Hamadouche**, K. Whitaker, F. Valentino, K. Ito et al. *DeepDive: DeepDive: Tracing early quenching pathways of massive quiescent galaxies at z \> 3  from star-formation histories and chemical abundances*, Submitted to ApJ, <a href="https://arxiv.org/pdf/2602.02485"> arXiv:2602.02485 </a>
 
-2. **M. L. Hamadouche**, R. J. McLure, A. Carnall, K. Whitaker et al. *JWST* *PRIMER: strong evidence for the environmental quenching of low-mass galaxies out to z ≃ 2*, MNRAS, Jul. 2025, doi:10.1093/mnras/staf971.
+2. **M. L. Hamadouche**, R. J. McLure, A. Carnall, K. Whitaker et al. *JWST* *PRIMER: strong evidence for the environmental quenching of low-mass galaxies out to z ≃ 2*, MNRAS, Jul. 2025, <a href="https://ui.adsabs.harvard.edu/link_gateway/2025MNRAS.541..463H/doi:10.1093/mnras/staf971"> doi:10.1093/mnras/staf971 </a>.
 
-3. **M. L. Hamadouche**, A. C. Carnall, R. J. McLure, J. Dunlop et al. *The connection between stellar mass, age and quenching timescale in massive quiescent galaxies at z ≃ 1*, MNRAS, Mar. 2023, doi: 10.1093/mnras/stad773.
+3. **M. L. Hamadouche**, A. C. Carnall, R. J. McLure, J. Dunlop et al. *The connection between stellar mass, age and quenching timescale in massive quiescent galaxies at z ≃ 1*, MNRAS, Mar. 2023, <a href="10.1093/mnras/stad773"> doi: 10.1093/mnras/stad773 </a>.
 
-4. **M. L. Hamadouche**, A. C. Carnall, R. J. McLure, J. Dunlop et al. *A combined VANDELS and LEGA-C study: the evolution of quiescent galaxy size, stellar mass and age from z = 0.6 to z = 1.3*. MNRAS, Mar. 2022,
-doi: 10.1093/mnras/stac535.
+4. **M. L. Hamadouche**, A. C. Carnall, R. J. McLure, J. Dunlop et al. *A combined VANDELS and LEGA-C study: the evolution of quiescent galaxy size, stellar mass and age from z = 0.6 to z = 1.3*. MNRAS, Mar. 2022, <a href="10.1093/mnras/stac535"> doi: 10.1093/mnras/stac535 </a>.
 
 <h2 style="color:rgb(255, 123, 172)">Significant contributions</h2>
 
 5. P. Zhu, K. Ito, F. Valentino, **M. L. Hamadouche**, et al. *DeepDive: There and back again? Neutral outflows in z ∼ 3.5 quiescent galaxies*,(in prep. soon to be submitted to A&A)
 
 6. K. Ito, F. Valentino, G. Brammer, **M. L. Hamadouche**, K. Whitaker et
-al. *DeepDive:A deep dive into the physics of the first massive quiescent galaxies in the Universe* Submitted to A&A, arXiv:2506.22642.
+al. *DeepDive:A deep dive into the physics of the first massive quiescent galaxies in the Universe* Submitted to A&A, <a href="https://arxiv.org/abs/2506.22642">arXiv:2506.22642</a>.
 
 7. Carnall, A. C., Begley, R., McLeod, D. J., **Hamadouche, M. L.** , Donnan, C. T., McLure, R. J., Dunlop, J. S., Milvang-Jensen, B., Bondestam, C. L., Cullen, F., Jewell, S. M., and Pollock, C. L. Jan. 2023. *A first look at the SMACS0723 JWST ERO: spectroscopic redshifts, stellar masses, and star-formation histories.* In: 518.1, pp. L45–L50.
 

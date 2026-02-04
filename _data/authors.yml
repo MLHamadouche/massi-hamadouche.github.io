@@ -18,7 +18,7 @@ author1:
 
   # This photo will be used in the about section
   # picture: ![Me](/assets/img/me.png)
-  picture: /assets/img/cute_me.jpg
+  picture: /assets/img/cute_me_new.png
     # path: !(/assets/img/me.png)
     # srcset:
     #   1x: "/assets/img/me.png"

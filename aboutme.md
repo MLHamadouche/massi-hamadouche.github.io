@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/me.png
+image: /assets/img/cute_me_new.png
 description: >
   Postdoctoral Researcher at UMass Amherst. I research quiescent galaxies and their evolution across cosmic time.
 hide_description: true

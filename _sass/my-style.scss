@@ -15,29 +15,29 @@
 
 @media (min-width: 48em) {
   :root {
-    --sidebar-width: 17rem;
+    --sidebar-width: 16rem;
   }
   
   main.content {
-    margin-left: 17rem;      /* same as your sidebar width */
-    width: calc(100% - 15rem);
+    margin-left: 16rem;      /* same as your sidebar width */
+    width: calc(100% - 20rem);
   }
   
-  /* For cover pages */
-  .has-cover main.content {
-    margin-left: 17rem;
-    width: calc(100% - 15rem);
-  }
-
-  .drawer,
-  .drawer-toggle,
-  .drawer-backdrop {
-    display: none !important;
-  }
-
-  // .content {
-  //   margin-left: var(--sidebar-width);
+  // /* For cover pages */
+  // .has-cover main.content {
+  //   margin-left: 17rem;
+  //   width: calc(100% - 15rem);
   // }
+
+  // .drawer,
+  // .drawer-toggle,
+  // .drawer-backdrop {
+  //   display: none !important;
+  // }
+
+  .content {
+    margin-left: var(--sidebar-width);
+  }
 }
 
 @media (min-width: 48em) {

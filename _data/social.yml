@@ -111,7 +111,7 @@ ondrive:
   icon: icon-ondrive
 orcid:
   name: orcid
-  name: icon-orcid
+  icon: icon-orcid
   prepend: "https://orcid.org/"
 github:
   name: GitHub

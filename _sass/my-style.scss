@@ -82,6 +82,7 @@
   /* Three cards per row */
   .research-grid {
     grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
   }
 
   .research-card {
@@ -89,21 +90,24 @@
     flex-direction: column;
     justify-content: space-between;
     aspect-ratio: 4 / 5; /* nice poster-like shape */
-    padding: 1.25rem;
+    padding: 1.5rem;
   }
 
   /* Image takes ~75% of card */
   .research-card img {
     flex: 0 0 75%;
-    width: 100%;
+    width: 80%;
     object-fit: contain;
     margin-bottom: 0.75rem;
+    display: block;
+    max-width: 100% !important;
+    height: auto !important;
   }
 
   /* Title at bottom */
   .research-card h3 {
     margin: 0;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     text-align: center;
   }
 

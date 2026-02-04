@@ -8,7 +8,7 @@ redirect_from:
   - /download/
 ---
 
-<h2 style="color:rgb(242,99,152)"> About Me \(o_o)/ </h2>
+<h1 style="color:rgb(242,99,152)"> About Me \(o_o)/ </h1>
 
 I am currently a postdoctoral research associate at the University of Massachusetts 
 Amherst, working with Kate Whitaker & Francesco Valentino (at DAWN, Copenhagen) 

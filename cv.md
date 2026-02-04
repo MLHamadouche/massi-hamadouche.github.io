@@ -1,7 +1,7 @@
 <h1 style="color:rgb(242,99,152)">Curriculum Vitae</h1>
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Employment</h3>
+<h2 style="color:rgb(242,99,152)">Employment</h2>
 
 
 **University of Massachusetts Amherst** *Sep. 2024 - present*  
@@ -10,7 +10,7 @@
 *Teaching/Postdoctoral Research Associate*
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Education</h3>
+<h2 style="color:rgb(242,99,152)">Education</h2>
 
 **University of Edinburgh** *2024*  
 *PhD in Astronomy*  
@@ -23,8 +23,8 @@ supervised by Prof. Ross McLure
 *BSc in Astrophysics*
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Publications (significant author
-contribution, most recent)</h3>
+<h2 style="color:rgb(242,99,152)">Publications (significant author
+contribution, most recent)</h2>
 
 **M. L. Hamadouche**, K. Whitaker, F. Valentino, K. Ito et al.
 *DeepDive: DeepDive: Tracing early quenching pathways of massive
@@ -58,7 +58,7 @@ doi: 10.1093/mnras/stac535.
 0000-0001-6763-5551
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Selected talks</h3>
+<h2 style="color:rgb(242,99,152)">Selected talks</h2>
 
 **Galaxy Lunch Talk (*invited*)** *Space Telescope Science Institute,
 Baltimore, MD* *2025*  
@@ -78,7 +78,7 @@ Busan, South Korea* *2022*
 Astrophysics, Sexten* *2022*  
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Mentoring & Teaching</h3>
+<h2 style="color:rgb(242,99,152)">Mentoring & Teaching</h2>
 
 ***Mentees:***
 *Pranav Sasheeth,* *PENGUIN mentee*, University of Florida *2025 -
@@ -100,7 +100,7 @@ Pre-Honours *2020 - 2023*
 *Stellar Evolution*, Senior Honours *2021*  
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Grants & Prizes</h3>
+<h2 style="color:rgb(242,99,152)">Grants & Prizes</h2>
 
 |  |  |  |
 |:---|:---|:---|
@@ -111,7 +111,7 @@ Pre-Honours *2020 - 2023*
 | **Summer Research Internship Grant** *(QMUL)* | *£3,000* | *2017 & 2018* |
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Telescope Observing Proposals</h3>
+<h2 style="color:rgb(242,99,152)">Telescope Observing Proposals</h2>
 
 ***JWST* Cycle 2 Medium Proposal GO-3543** (PI: A. Carnall, F. Cullen):
 *‘EXCELS: The early extragalactic continuum and emission line survey’*
@@ -120,7 +120,7 @@ Pre-Honours *2020 - 2023*
 quiescent galaxy at redshift 4.657’* *(**Co-I**, 8 hours; £610,000)*  
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Collaborations</h3>
+<h2 style="color:rgb(242,99,152)">Collaborations</h2>
 
 ***JWST* DeepDive** ‘A deep dive into the physics of the first quiescent
 galaxies’, PI: Valentino  
@@ -138,7 +138,7 @@ PI: Dunlop
 PIs:McLure, Pentericci
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Outreach</h3>
+<h2 style="color:rgb(242,99,152)">Outreach</h2>
 
 **Volunteer** *Astronomy on Tap, Western Mass.* Series of public
 lectures at New City Brewery, MA *2025*  
@@ -153,7 +153,7 @@ STEM event for middle schoolers from local underserved communities
 UMass Amherst, MA *2025*
 
 ------------------------------------------------------------------------
-<h3 style="color:rgb(242,99,152)">Skills</h3>
+<h2 style="color:rgb(242,99,152)">Skills</h2>
 
 |  |  |
 |:---|---:|

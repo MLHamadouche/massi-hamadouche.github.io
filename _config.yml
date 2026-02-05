@@ -68,6 +68,9 @@ legal:
     url:               /LICENSE/
   - title:             NOTICE
     url:               /NOTICE/
+    # | 
+    # {% include my-footer-social.html %}
+  
   # - title:             CHANGELOG
   #   url:               /CHANGELOG/
 
@@ -163,11 +166,11 @@ defaults:
       layout:          plain
       sitemap:         false
 
-  - scope:
-      path: "" # applies site-wide
-    values:
-      sidebar_extra: |
-        {% include my-sidebar-social.html %}
+  # - scope:
+  #     path: "" # applies site-wide
+  #   values:
+  #     sidebar_extra: |
+  #       {% include my-sidebar-social.html %}
 
   # # You can use the following to enable comments on all posts.
   # - scope:

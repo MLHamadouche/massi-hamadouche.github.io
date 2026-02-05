@@ -13,16 +13,23 @@
   }
 }
 
-.sidebar-social {
-  display: none !important;
+.sidebar-social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin-top: 3em;
+  padding-top: 1em;
+  border-top: 1px solid #ccc; /* optional separator line */
 }
 
-.social.orcid svg {
-  width: 1.25em;
-  height: 1.25em;
-  fill: currentColor;
-  vertical-align: middle;
+.sidebar-social-icons a img {
+  width: 32px;
+  height: 32px;
+  transition: transform 0.2s;
 }
+
+.sidebar-social-icons a img:hover {
+  transform: scale(1.2);
 // :root {
 //     --sidebar-width: 15rem;
 // }

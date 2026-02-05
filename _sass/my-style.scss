@@ -37,6 +37,18 @@
 .my-sidebar-social a::after {
   content: none; /* remove any arrow or pseudo content */
 }
+
+.my-sidebar-social a,
+.my-sidebar-social a:hover,
+.my-sidebar-social a:focus {
+  background-image: none !important;
+  padding-right: 0 !important;
+}
+
+.my-sidebar-social a::after,
+.my-sidebar-social a::before {
+  content: none !important;
+}
 // :root {
 //     --sidebar-width: 15rem;
 // }

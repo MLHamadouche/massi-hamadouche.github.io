@@ -87,9 +87,9 @@ social:
   # orcid: 0000-0002-1825-0097
 
 links:
-  - title: ORCiD
+    title: orcid
     url: https://orcid.org/0000-0001-6763-5551
-    icon: /_includes/icons/orcid.svg
+    icon: /assets/img/ORCID-iD_icon_32x32.png
 
 # Theme
 # ---------------------------------------------------------------------------------------

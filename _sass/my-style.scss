@@ -29,24 +29,24 @@
 .my-sidebar-social a img:hover {
   transform: scale(1.15);
 }
-.my-sidebar-social a {
+.my-sidebar-social a img {
   text-decoration: none; /* remove underline */
   position: relative;    /* reset for pseudo-elements */
 }
 
-.my-sidebar-social a::after {
+.my-sidebar-social a img ::after {
   content: none; /* remove any arrow or pseudo content */
 }
 
-.my-sidebar-social a,
-.my-sidebar-social a:hover,
-.my-sidebar-social a:focus {
+.my-sidebar-social a img ,
+.my-sidebar-social a img :hover,
+.my-sidebar-social a img :focus {
   background-image: none !important;
   padding-right: 0 !important;
 }
 
-.my-sidebar-social a::after,
-.my-sidebar-social a::before {
+.my-sidebar-social a img ::after,
+.my-sidebar-social a img ::before {
   content: none !important;
 }
 // :root {

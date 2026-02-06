@@ -45,6 +45,11 @@
   padding-right: 0 !important;
 }
 
+a {
+text-decoration: none;
+box-shadow: none;
+}
+
 .my-sidebar-social a::after,
 .my-sidebar-social a::before {
   content: none !important;

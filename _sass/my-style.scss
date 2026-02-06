@@ -26,7 +26,7 @@
   transition: transform 0.2s;
 }
 
-.my-sidebar-social a img:hover {
+.my-sidebar-social a img :hover {
   transform: scale(1.15);
 }
 .my-sidebar-social a img {
@@ -56,8 +56,18 @@ box-shadow: none;
   border-bottom: none !important;
 }
 
-.my-sidebar-social a::after,
-.my-sidebar-social a::before {
+.my-sidebar-social a ::after,
+.my-sidebar-social a ::before {
+  content: none !important;
+}
+
+.my-sidebar-social a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+.my-sidebar-social a::after {
+  display: none !important;
   content: none !important;
 }
 

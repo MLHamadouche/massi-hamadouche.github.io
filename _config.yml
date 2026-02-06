@@ -75,7 +75,7 @@ legal:
   #   url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2026. Massissilia Hamadouche. Cover image is ***_NGC 346_***  **IR:** *JWST:* NASA/ESA/CSA/STScI, *Spitzer:* NASA/JPL/Caltech; **Optical:** *Hubble:* NASA/ESA/STScI, ESO; **Image Processing:** L. Frattare, J. Major, N. Wolk, and K. Arcand, with additional support on NGC 346 by A. Kudrya
+copyright:             © 2026. Massissilia Hamadouche. Cover image is ***NGC 346:***  **IR:** *JWST:* NASA/ESA/CSA/STScI, *Spitzer:* NASA/JPL/Caltech; **Optical:** *Hubble:* NASA/ESA/STScI, ESO; **Image Processing:** L. Frattare, J. Major, N. Wolk, and K. Arcand, with additional support on NGC 346 by A. Kudrya
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

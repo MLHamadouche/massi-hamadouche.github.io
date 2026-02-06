@@ -50,6 +50,12 @@ text-decoration: none;
 box-shadow: none;
 }
 
+.my-sidebar-social  a,
+.index-footer a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
 .my-sidebar-social a::after,
 .my-sidebar-social a::before {
   content: none !important;
